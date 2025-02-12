@@ -1,4 +1,11 @@
 # IPL Win Prediction
+### Architecture Diagrams
+
+**This is Sequence Diagram**
+<br>
+![logo](https://github.com/Radhesham7507/IPL-Win-Prediction/blob/main/IPL-win-Prediction.png)
+
+
 
 This project predicts the winner of an IPL match based on historical data and machine learning models. It utilizes various statistical features to determine the probability of a team's victory.
 
