@@ -10,7 +10,7 @@ This project predicts the winner of an IPL match based on historical data and ma
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 Follow these steps to set up the project on your local system:
